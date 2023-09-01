@@ -1,5 +1,5 @@
 # exercise-course-USBPendrive
-In this project I added task to save data from BMP to pendrive every 5 sec. This task take care about unmount and number of files max to 255.
+In this project I added task to save data from BMP to pendrive every 5 sec (Free RTOS). This task take care about unmount and number of files max to 255.
 I only added PendriveTask. The rest of project is from Kurs STM32 dla początkujących + FreeRTOS (msalamon). 
 
 # How it works
